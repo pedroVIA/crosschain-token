@@ -1,0 +1,4 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@vialabs-io/npm-contracts/=lib/npm-contracts/
+@vialabs-io/npm-registry/=lib/npm-registry/
+forge-std/=lib/forge-std/src/
